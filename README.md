@@ -2,4 +2,4 @@
 (Subject: ALY6040, Data Mining Applications Project)
 
 ## Project/Goals
-Topic Modeling to Categorize the Reviews
+Text Topic Modeling to Categorize the Reviews
